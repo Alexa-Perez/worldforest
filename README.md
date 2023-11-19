@@ -20,4 +20,4 @@ Las tecnologías que utilicé, son:
 Aprender a utilizar codigos estándar de HTML5 y CSS3.
 
 ### Link a demo
-En el siguiente link puede ver mi proyecto terminado [Página de Perritos](https://worldforest.vercel.app/)
+En el siguiente link puede ver mi proyecto terminado [Página World Forest](https://worldforest.vercel.app/)
